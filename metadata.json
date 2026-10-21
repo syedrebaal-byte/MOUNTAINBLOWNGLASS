@@ -1,0 +1,6 @@
+{
+  "name": "Mountain Blown Glass — Fine Art Glass Atelier",
+  "description": "Exquisite hand-blown art glass vases, centerpiece bowls, luminous oil lamps, and bespoke unity collections crafted in Estes Park, Colorado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
